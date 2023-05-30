@@ -13,6 +13,7 @@
   Review what we learned, ask for feedback, provide next steps.
 -->
 
+This rocks
 
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
